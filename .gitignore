@@ -1,0 +1,8 @@
+
+Sample/.vsconfig
+*.csproj
+*.sln
+Sample/.vs/
+Sample/Temp/
+Sample/Logs/
+Sample/Library/
